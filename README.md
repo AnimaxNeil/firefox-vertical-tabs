@@ -1,9 +1,8 @@
-Used with Tab Center Reborn firefox extension
+# Firefox Vertical Tabs
 
+Instructions :
 
-Steps:
-
-1. Pick a vertical tab extension
+1. Pick a vertical tab extension like Tab Center Reborn, check "allow in private/incognito tabs" and install
 
 2. Enter about:config in the address bar and select “Accept the Risk and Continue”
 
@@ -19,4 +18,4 @@ Steps:
 
 8. Paste the "userChrome.css" file insite the newly created “chrome” folder
 
-9. Restart firefox
+9. Restart firefox and enjoy some elegant vertical tabs
